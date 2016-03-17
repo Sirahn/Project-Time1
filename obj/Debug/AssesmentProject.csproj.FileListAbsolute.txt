@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\bin\Debug\AssesmentProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\bin\Debug\AssesmentProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\bin\Debug\AssesmentProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\obj\Debug\AssesmentProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\obj\Debug\AssesmentProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AssesmentProject\obj\Debug\AssesmentProject.pdb
